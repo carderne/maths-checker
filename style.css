@@ -1,0 +1,21 @@
+html {
+    font-family: sans-serif;
+    color: #111111;
+}
+
+body {
+    margin: auto;
+    width: 90%;
+}
+
+input {
+    max-width: 200px;
+}
+
+.green {
+    color: rgb(0,140,0);
+}
+
+.red {
+    color: rgb(140,0,0);
+}
